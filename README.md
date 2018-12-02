@@ -1,4 +1,4 @@
-# Pictures credits Credits
+# Pictures credits
 
 - Slide 1: **Cool Old Term** [fuente](http://mamchenkov.net/wordpress/2014/07/31/cool-old-term-terminal-emulator-which-mimics-the-old-cathode-display/)
 - Slide 4: **Runa Mágica: La esencia de la Alquimia** [fuente](http://runamagica.blogspot.com/2012/09/la-esencia-de-la-alquimia.html)
